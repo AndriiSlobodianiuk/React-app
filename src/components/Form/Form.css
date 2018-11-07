@@ -1,0 +1,19 @@
+.search_btn__icon {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.search-input__container {
+  margin-left: 50px;
+}
+
+.select-container {
+  padding-top: 16px;
+}
